@@ -64,7 +64,6 @@ Me chamo Felipe Martins dos Santos, tenho 21 anos, sou Técnico em Informática 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-plain.svg" 
-
 />
 <img 
     align="left" 
