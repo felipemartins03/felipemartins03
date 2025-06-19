@@ -17,6 +17,7 @@ Me chamo Felipe Martins dos Santos, tenho 21 anos, sou Técnico em Informática 
 
 ### 🤖 Linguagens e Tecnologias
 <br>
+
 <img 
     align="left" 
     alt="JavaScript" 
