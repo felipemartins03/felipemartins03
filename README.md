@@ -5,7 +5,7 @@
 Me chamo Felipe Martins dos Santos, tenho 21 anos, sou Técnico em Informática formado pelo Senac Santana e, atualmente, curso Ciência da Computação na FECAP. Nos últimos tempos, tenho concentrado meus estudos em Inteligência Artificial e Computação em Nuvem, áreas que me instigam pela inovação constante e pelo impacto que exercem na sociedade. Ao longo da minha trajetória, tive a oportunidade de desenvolver projetos em desenvolvimento web, mobile e de software, experiências que contribuíram para minha formação como desenvolvedor.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ifelipemartins/](https://www.linkedin.com/in/ifelipemartins/">
+  <a href="https://www.linkedin.com/in/ifelipemartins/">
     <img 
       alt="LinkedIn"
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
