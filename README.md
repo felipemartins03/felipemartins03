@@ -128,14 +128,14 @@ Me chamo Felipe Martins dos Santos, tenho 21 anos, sou Técnico em Informática 
 ### 🏆 Conquistas & Hackathons
 
 - **🥇 1º Lugar - [3ª edição do Hackathon da Ibracon]**
-  - **Data:** [Junho, 2025]
-  - **Projeto:** [Zeus Lightning] - [Plataforma que facilita a colaboração entre empresas, prestadores de serviço, auditores e investidores quando o assunto é relatório de sustentabilidade].
-  - **Tecnologias:** [JavaScript, Vite, GPT-4]
-  - **[www.zeus.dev.br]**
+  - **Data:** Junho, 2025
+  - **Projeto:** Zeus Lightning - Plataforma que facilita a colaboração entre empresas, prestadores de serviço, auditores e investidores quando o assunto é relatório de sustentabilidade.
+  - **Tecnologias:** JavaScript, Vite, GPT-4
+  - **www.zeus.dev.br**
 
 - **🥉 3º Lugar - [Hackathon de IA e Multi-Cloud]**
-  - **Data:** [Junho, 2025]
-  - **Projeto:** [LogWise] - [Agente de IA para Otimização de Custos em Nuvem].
-  - **Tecnologias:** [Amazon Bedrock, AWS Lambda, CloudWatch, Amazon S3, DynamoDB]
+  - **Data:** Junho, 2025
+  - **Projeto:** LogWise - [Agente de IA para Otimização de Custos em Nuvem.
+  - **Tecnologias:** Amazon Bedrock, AWS Lambda, CloudWatch, Amazon S3, DynamoDB
 
 </p>
