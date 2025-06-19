@@ -16,7 +16,7 @@ Me chamo Felipe Martins dos Santos, tenho 21 anos, sou Técnico em Informática 
 ---
 
 ### 🤖 Linguagens e Tecnologias
-
+<br>
 <img 
     align="left" 
     alt="JavaScript" 
@@ -129,7 +129,7 @@ Me chamo Felipe Martins dos Santos, tenho 21 anos, sou Técnico em Informática 
 
 - **🥉 3º Lugar - [Hackathon de IA e Multi-Cloud]**
   - **Data:** Junho, 2025
-  - **Projeto:** LogWise - [Agente de IA para Otimização de Custos em Nuvem.
+  - **Projeto:** LogWise - Agente de IA para Otimização de Custos em Nuvem.
   - **Tecnologias:** Amazon Bedrock, AWS Lambda, CloudWatch, Amazon S3, DynamoDB
 
 </p>
